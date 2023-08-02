@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+
+  font-family: 'Bungee Spice', cursive;
+  text-align: center;
+  margin: 50;
+}
+table{
+  margin:auto;
+}
+
+td{
+  background-color :black;
+  text-align: center;
+  height:300px;
+  width:150px
+ 
+}
+#one{
+  background-color: #A1D2CE;
+  
+}
+
+
+
+#two{
+  background-color: #78CAD2;
+  
+}
+
+#three{
+  background-color:#C56762 ;
+  
+}
+#four{
+  background-color: #62A8AC;
+  
+}
+#five{
+  background-color: #A1D2;
+  
+}
